@@ -27,7 +27,7 @@
 | Analysis Lead | Hrishi Dongre | hrishidongre |
 | Visualization Lead | Akhilesh Kumar | UserAkku |
 | Strategy Lead |  Kapil Karan Mathur | KapilKaranMathur |
-| PPT and Quality Lead | Ritik Atri |  |
+| PPT and Quality Lead | Ritik Atri | ritikattri773 |
 ---
 
 ## Business Problem
