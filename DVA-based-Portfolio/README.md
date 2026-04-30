@@ -9,5 +9,5 @@
 | Kapil Karan Mathur   | [Portfolio Link](https://kapilkaranmathur.github.io/DVA_Portfolio/) |
 |Neelanshu Karn |    [Portfolio Link](https://neelanshuxp.vercel.app/)    |
 | Lakshya Agrawal  |  [Portfolio Link](https://dva-portfolio-six-theta.vercel.app/)   |
-| Person 6   |      |
+| Ajhilesh kumar   | [Portfolio Link](https://ak-dva-portfolio-rwkb.vercel.app/)     |
 | Person 7   |      |
